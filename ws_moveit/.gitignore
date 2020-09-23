@@ -1,0 +1,6 @@
+.cache
+.ros
+.rviz
+.catkin_workspace
+build
+devel
